@@ -1,0 +1,15 @@
+{
+  "name": "pitometer-front",
+  "version": "1.0.0",
+  "description": "pitometer front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel semedo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
